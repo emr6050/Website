@@ -42,7 +42,7 @@ section {
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 
 section h3.section-subheading {
@@ -56,7 +56,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 100px 0;
   }
 }
 
@@ -68,6 +68,13 @@ section h3.section-subheading {
 .btn-xl {
   font-size: 18px;
   padding: 20px 40px;
+}
+
+.btn-xl-2 {
+  font-size: 18px;
+  padding: 20px 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
 }
 
 .btn-primary {
